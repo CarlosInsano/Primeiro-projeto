@@ -1,0 +1,48 @@
+
+
+/*cabeçalho*/
+
+.container_header{
+ background-color: rgb(68, 68, 68);
+ color: honeydew;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ text-align: center;    
+}
+h1{
+ Margin: 10px;
+ font-size: 30pt;
+ width: 100%;
+ max-width:600px ;
+
+ 
+}
+h3{
+ margin: 40px;
+ font-size: 20pt;
+}
+
+/*conteudo*/
+
+.login_senha{
+ text-align: center;
+ background-color: rgba(31, 13, 13, 0.248);
+ color: white;
+ margin: 20px 200px 100px 200px;
+ padding-top: 20px;
+ 
+}
+
+.entrar{
+ margin: 20px;
+ color: white;
+ border-color: rgb(37, 34, 51);
+ background-color: rgba(0, 0, 0, 0.309);
+}
+
+.entrar:hover{
+ background-color: green;
+}
+/*roda pé*/
+footer{
+ text-align: center;
+}
