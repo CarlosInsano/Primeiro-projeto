@@ -1,0 +1,34 @@
+
+
+/*cabeçalho*/
+
+
+/*conteudo*/
+
+.login_senha{
+ display: flex;
+ flex-direction: column;
+ text-align:start;
+
+ background-color: rgba(255, 255, 255, 0.248);
+ color: rgb(0, 0, 0);
+ margin: auto;
+ padding-top: 20px;
+ padding: 10px;
+ 
+}
+
+.entrar{
+ margin: 20px;
+ color: white;
+ border-color: rgb(37, 34, 51);
+ background-color: rgba(0, 0, 0, 0.309);
+}
+
+.entrar:hover{
+ background-color: green;
+}
+/*roda pé*/
+footer{
+ text-align: center;
+}

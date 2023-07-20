@@ -1,0 +1,47 @@
+/*coraçao
+.heart {
+ margin: 200px;
+ background-color: red;
+ height: 200px;
+ transform: rotate(-45deg);
+ width: 200px;
+ position: relative;
+ padding-right: 200px;
+}
+
+.heart:before,
+.heart:after {
+ content: "";
+ background-color: red;
+ border-radius: 50%;
+ height: 200px;
+ position: absolute;
+ width: 200px;
+}
+
+.heart:before {
+ top: -100px;
+}
+
+.heart:after {
+ left: 100px;
+}
+*/
+
+/*Teste*/
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 120vw;
+}
+.teste{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 260px;
+ 
+}
+p{
+ color: rgb(255, 0, 0);
+ text-align: center;
+}
